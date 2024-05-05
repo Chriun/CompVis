@@ -1,0 +1,131 @@
+------------------------------------------------------
+Images: image1.JPG, image2.JPG
+
+Step 1
+        Keypoints in image1.JPG: 6861
+        Keypoints in image2.JPG: 7277
+
+Step 2
+        Matches: 1613
+        Fraction in Image 1: 1613/6861 = 0.235096924646553
+        Fraction in Image 2: 1613/7277 = 0.2216572763501443
+Step 3
+        Passed threshold
+Step 4
+        Inliers: 1535
+        Percentage of F inliers over matches: 0.9516429014259145
+Step 5
+        Passed threshold
+Step 6
+        Inliers: 1377
+        Percentage of H inliers over F inliers: 0.8970684039087948
+Step 7
+        Yes. Images can be accurately aligned. Over 0.65 percent inliers.
+Step 8
+        Created mosaic: image1_image2.JPG
+
+------------------------------------------------------
+
+Images: image1.JPG, image3.JPG
+
+Step 1
+        Keypoints in image1.JPG: 6861
+        Keypoints in image3.JPG: 5997
+
+Step 2
+        Matches: 505
+        Fraction in Image 1: 505/6861 = 0.07360443084098528
+        Fraction in Image 2: 505/5997 = 0.08420877105219277
+Step 3
+        Passed threshold
+Step 4
+        Inliers: 400
+        Percentage of F inliers over matches: 0.7920792079207921
+Step 5
+        Too small a percentage of inliers, Different Scenes
+
+------------------------------------------------------
+
+Images: image1.JPG, image4.JPG
+
+Step 1
+        Keypoints in image1.JPG: 6861
+        Keypoints in image4.JPG: 5475
+
+Step 2
+        Matches: 109
+        Fraction in Image 1: 109/6861 = 0.015886896953796824
+        Fraction in Image 2: 109/5475 = 0.01990867579908676
+Step 3
+        Too small a percentage of matches, Different Scenes
+
+------------------------------------------------------
+
+Images: image2.JPG, image3.JPG
+
+Step 1
+        Keypoints in image2.JPG: 7277
+        Keypoints in image3.JPG: 5997
+
+Step 2
+        Matches: 1289
+        Fraction in Image 1: 1289/7277 = 0.17713343410746188
+        Fraction in Image 2: 1289/5997 = 0.21494080373520094
+Step 3
+        Passed threshold
+Step 4
+        Inliers: 1184
+        Percentage of F inliers over matches: 0.9185415050426687
+Step 5
+        Passed threshold
+Step 6
+        Inliers: 896
+        Percentage of H inliers over F inliers: 0.7567567567567568
+Step 7
+        Yes. Images can be accurately aligned. Over 0.65 percent inliers.
+Step 8
+        Created mosaic: image2_image3.JPG
+
+------------------------------------------------------
+
+Images: image2.JPG, image4.JPG
+
+Step 1
+        Keypoints in image2.JPG: 7277
+        Keypoints in image4.JPG: 5475
+
+Step 2
+        Matches: 311
+        Fraction in Image 1: 311/7277 = 0.04273739178232788
+        Fraction in Image 2: 311/5475 = 0.05680365296803653
+Step 3
+        Too small a percentage of matches, Different Scenes
+
+------------------------------------------------------
+
+Images: image3.JPG, image4.JPG
+
+Step 1
+        Keypoints in image3.JPG: 5997
+        Keypoints in image4.JPG: 5475
+
+Step 2
+        Matches: 734
+        Fraction in Image 1: 734/5997 = 0.12239453059863264
+        Fraction in Image 2: 734/5475 = 0.13406392694063926
+Step 3
+        Passed threshold
+Step 4
+        Inliers: 613
+        Percentage of F inliers over matches: 0.8351498637602179
+Step 5
+        Passed threshold
+Step 6
+        Inliers: 406
+        Percentage of H inliers over F inliers: 0.6623164763458401
+Step 7
+        Yes. Images can be accurately aligned. Over 0.65 percent inliers.
+Step 8
+        Created mosaic: image3_image4.JPG
+
+------------------------------------------------------

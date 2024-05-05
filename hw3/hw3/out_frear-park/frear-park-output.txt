@@ -1,0 +1,27 @@
+------------------------------------------------------
+Images: image1.JPG, image2.JPG
+
+Step 1
+        Keypoints in image1.JPG: 668
+        Keypoints in image2.JPG: 863
+
+Step 2
+        Matches: 152
+        Fraction in Image 1: 152/668 = 0.2275449101796407
+        Fraction in Image 2: 152/863 = 0.1761297798377752
+Step 3
+        Passed threshold
+Step 4
+        Inliers: 147
+        Percentage of F inliers over matches: 0.9671052631578947
+Step 5
+        Passed threshold
+Step 6
+        Inliers: 132
+        Percentage of H inliers over F inliers: 0.8979591836734694
+Step 7
+        Yes. Images can be accurately aligned. Over 0.65 percent inliers.
+Step 8
+        Created mosaic: image1_image2.JPG
+
+------------------------------------------------------

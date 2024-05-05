@@ -1,0 +1,60 @@
+------------------------------------------------------
+Images: image1.JPG, image2.JPG
+
+Step 1
+        Keypoints in image1.JPG: 2337
+        Keypoints in image2.JPG: 4457
+
+Step 2
+        Matches: 964
+        Fraction in Image 1: 964/2337 = 0.4124946512623021
+        Fraction in Image 2: 964/4457 = 0.21628898362126991
+Step 3
+        Passed threshold
+Step 4
+        Inliers: 881
+        Percentage of F inliers over matches: 0.9139004149377593
+Step 5
+        Passed threshold
+Step 6
+        Inliers: 454
+        Percentage of H inliers over F inliers: 0.5153234960272418
+Step 7
+        No. Images cannot be accurately aligned. There are less than 0.65 percent of inliers.
+
+------------------------------------------------------
+
+Images: image1.JPG, image3.JPG
+
+Step 1
+        Keypoints in image1.JPG: 2337
+        Keypoints in image3.JPG: 491
+
+Step 2
+        Matches: 125
+        Fraction in Image 1: 125/2337 = 0.05348737697903295
+        Fraction in Image 2: 125/491 = 0.2545824847250509
+Step 3
+        Passed threshold
+Step 4
+        Inliers: 34
+        Percentage of F inliers over matches: 0.272
+Step 5
+        Too small a percentage of inliers, Different Scenes
+
+------------------------------------------------------
+
+Images: image2.JPG, image3.JPG
+
+Step 1
+        Keypoints in image2.JPG: 4457
+        Keypoints in image3.JPG: 491
+
+Step 2
+        Matches: 202
+        Fraction in Image 1: 202/4457 = 0.0453219654476105
+        Fraction in Image 2: 202/491 = 0.41140529531568226
+Step 3
+        Too small a percentage of inliers, Different Scenes
+
+------------------------------------------------------

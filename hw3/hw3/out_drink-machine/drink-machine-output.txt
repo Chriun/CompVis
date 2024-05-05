@@ -1,0 +1,55 @@
+------------------------------------------------------
+Images: image1.JPG, image2.JPG
+
+Step 1
+        Keypoints in image1.JPG: 3607
+        Keypoints in image2.JPG: 4707
+
+Step 2
+        Matches: 315
+        Fraction in Image 1: 315/3607 = 0.08733019129470473
+        Fraction in Image 2: 315/4707 = 0.06692160611854685
+Step 3
+        Passed threshold
+Step 4
+        Inliers: 172
+        Percentage of F inliers over matches: 0.546031746031746
+Step 5
+        Too small a percentage of inliers, Different Scenes
+
+------------------------------------------------------
+
+Images: image1.JPG, image3.JPG
+
+Step 1
+        Keypoints in image1.JPG: 3607
+        Keypoints in image3.JPG: 3683
+
+Step 2
+        Matches: 122
+        Fraction in Image 1: 122/3607 = 0.03382312170779041
+        Fraction in Image 2: 122/3683 = 0.03312516969861526
+Step 3
+        Too small a percentage of matches, Different Scenes
+
+------------------------------------------------------
+
+Images: image2.JPG, image3.JPG
+
+Step 1
+        Keypoints in image2.JPG: 4707
+        Keypoints in image3.JPG: 3683
+
+Step 2
+        Matches: 368
+        Fraction in Image 1: 368/4707 = 0.0781814319099214
+        Fraction in Image 2: 368/3683 = 0.09991854466467553
+Step 3
+        Passed threshold
+Step 4
+        Inliers: 224
+        Percentage of F inliers over matches: 0.6086956521739131
+Step 5
+        Too small a percentage of inliers, Different Scenes
+
+------------------------------------------------------
